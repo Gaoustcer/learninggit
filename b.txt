@@ -1,1 +1,0 @@
-local repository change but fetch remote changes with git pull at the same time,what will happen/
