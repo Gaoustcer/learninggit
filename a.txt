@@ -1,0 +1,2 @@
+This is test for git pull
+if you add ssh key into github setting,you must clone the code from remote repositories with git clone git@
